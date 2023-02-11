@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.font-Anton {
+	font-family: 'Anton', sans-serif;
+}
+
+.router-link-exact-active {
+/*	border-radius: 6px;*/
+/*	background: #ff5500;*/
+/*	color: #ff5500;
+	border: 1px solid #ff5500;*/
+}
